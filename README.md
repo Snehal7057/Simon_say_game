@@ -1,2 +1,2 @@
 # Simon_say_game
-this game in done at that time i learn the javascript
+Simon Says is a fun classic game that encourages active play and helps in exercising listening skills. 
